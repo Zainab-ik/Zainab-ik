@@ -11,7 +11,7 @@ I'm a Data Scientist, Cloud engineer (in view😁), Technical writer and a Resea
 - 🌱 I’m currently learning JavaScript, HTML, CSS and Cloud contents.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Devops role/ Cloud engineering, Data Scientist, Technical writer or Intern AI Research assistants (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailto:ziabdusalam@gmail.com or mailto:ikeoluwa933@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing ziabdusalam@gmail.com or ikeoluwa933@gmail.com.
 
 ---
 
