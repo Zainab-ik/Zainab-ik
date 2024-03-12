@@ -5,11 +5,11 @@ I'm a Data Scientist, Cloud engineer (in view😁), Technical writer and a Resea
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her (Muslim🧕)
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, HTML, CSS and Cloud contents.
+- 💡 Fun fact: I'm currently studying at xxx.
+- 🌱 I’m currently learning xxx.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Devops role/ Cloud engineering, Data Scientist, Technical writer or Intern AI Research assistants (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing ziabdusalam@gmail.com or ikeoluwa933@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing ziabdusalam@gmail.com.
 
 ---
 
