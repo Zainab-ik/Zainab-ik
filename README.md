@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-I'm a Data Scientist, Cloud engineer (in view😁), Technical writer and a Researcher. I'm passionate about sharing knowledge, writing, analysis, and biodrug disovvery. I'm curious about AI uses in drug development. I create technical content on my [Blog](https://hashnode.com/@Zainabik), build useful [projects](https://github.com/Zainab-ik). Thanks for viewing...
+I'm a Data Scientist, Technical writer and a Researcher. I'm passionate about sharing knowledge, writing, analysis, and biodrug disovvery. I'm curious about AI uses in drug development. I create technical content on my [Blog](https://hashnode.com/@Zainabik), build useful [projects](https://github.com/Zainab-ik). Thanks for viewing...
 
 **Here's a quick summary about me**:
 
