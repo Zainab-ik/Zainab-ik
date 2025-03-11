@@ -1,15 +1,16 @@
 # Hello there; welcome 👋🏾
 
-I'm a Data Scientist, Technical writer and a Researcher. I'm passionate about sharing knowledge, writing, analysis, and biodrug disovvery. I'm curious about AI uses in drug development. I create technical content on my [Blog](https://hashnode.com/@Zainabik), build useful [projects](https://github.com/Zainab-ik). Thanks for viewing...
+I'm a Researcher. I'm passionate about sharing knowledge, writing, analysis, and drug discovery. I'm curious about AI uses in drug development. 
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her (Muslim🧕)
-- 💡 Fun fact: I'm currently studying at xxx.
-- 🌱 I’m currently learning xxx.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Devops role/ Cloud engineering, Data Scientist, Technical writer or Intern AI Research assistants (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing ziabdusalam@gmail.com.
+- 💡 Fun fact: I'm currently a trainee at Chembl working with bioactivity data. Previously @ Ersilia / Biomodels
+- 🌱 I’m currently learning python.
+- 😊 I’m a fan of open source, and always looking to contribute to interesting projects. Also actively looking for scientific research internships
+- 💼 Career interests: I want to do a PhD in Computational Biology / Bioinformatics
+- 🌱 Research interest: chemical biology, biology, computational life sciences
+- 📫 You can contact me @ emailing ziabdusalam@gmail.com.
 
 ---
 
