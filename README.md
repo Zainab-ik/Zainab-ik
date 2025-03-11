@@ -10,7 +10,7 @@ I'm a Researcher. I'm passionate about sharing knowledge, writing, analysis, and
 - 😊 I’m a fan of open source, and always looking to contribute to interesting projects. Also actively looking for scientific research internships
 - 💼 Career interests: I want to do a PhD in Computational Biology / Bioinformatics
 - 🌱 Research interest: chemical biology, biology, computational life sciences
-- 📫 You can contact me @ emailing ziabdusalam@gmail.com.
+- 📫 You can contact me @ ziabdusalam@gmail.com.
 
 ---
 
