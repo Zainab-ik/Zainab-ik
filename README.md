@@ -14,6 +14,6 @@ I'm a Researcher. I'm passionate about sharing knowledge, writing, analysis, and
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zainab-ik&show_icons=true&include_all_commits=true&hide_border=true" alt="Zainab-ik's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-ik&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |- 😊 Pronouns: She/her (Muslim🧕)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zainab-ik&show_icons=true&include_all_commits=true&hide_border=true" alt="Zainab-ik's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-ik&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
 | ------------- | ------------- |
 
